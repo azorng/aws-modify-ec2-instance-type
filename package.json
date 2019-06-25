@@ -1,8 +1,8 @@
 {
-  "name": "aws-instance-management",
+  "name": "aws-modify-ec2-instance-type",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "modify-ec2-instance.js",
   "dependencies": {
     "aws-sdk": "^2.453.0",
     "optimist": "^0.6.1"

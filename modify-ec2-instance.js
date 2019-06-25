@@ -2,8 +2,8 @@ const argv = require('optimist').argv;
 const AWS = require('aws-sdk');
 
 const AWS_API_VERSION = '2016-11-15';
-const INSTANCE_ID = '';
-const INSTANCE_REGION = '';
+const INSTANCE_ID = ''; // i-...
+const INSTANCE_REGION = ''; // eu-west-3
 const AWS_SECRET = '';
 const AWS_ACCESS_KEY_ID = '';
 
